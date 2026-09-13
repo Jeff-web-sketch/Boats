@@ -12,5 +12,6 @@ Make certain units swim, and some sink<br>
 <h2>Priority: Medium</h2>
 Arrow ship damage stats, like bolt shooter<br>
 Increase health + resistance for some(Maybe)<br>
+Test and balance the range aura for units on boats<br>
 <h2>Priority: Low</h2>
 Make arrow ships get accuracy bonus from bolt shooters<br>
