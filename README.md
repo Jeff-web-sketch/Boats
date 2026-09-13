@@ -9,3 +9,5 @@ Add "on deck" points to scout ship<br>
 <h2>Priority: Medium</h2>
 Arrow ship damage stats, like bolt shooter<br>
 Increase health + resistance for some(Maybe)<br>
+<h2>Priority: Low</h2>
+Make arrow ships get accuracy bonus from bolt shooters<br>
