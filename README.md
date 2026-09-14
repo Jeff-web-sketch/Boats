@@ -9,6 +9,8 @@ Arrow ships weak, but fast transport ships.<br>
 Seige ships slow but strong transport ships.<br>
 Ram ships kinda in the middle, but not really transport ships<br>
 Ram ships has 700 health<br>
+# Known issues
+Units on deck don't sink with the boat, they go underwater, and can move around
 # Changelog
 <h2>Version 1.0.0</h2>
 All boats have "on deck positions<br>
@@ -21,11 +23,11 @@ Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige sh
 Make certain units swim, and some sink<br>
 [Done]Add "on deck" points to scout ship<br>
 <h2>Priority: Medium</h2>
-[In Progress]Arrow ship damage stats, like bolt shooter<br>
-Increase health + resistance for some(Maybe)<br>
+[Needs testing]Arrow ship damage stats, like bolt shooter<br>
+[Needs testing]Increase health + resistance for some(Maybe)<br>
 Test and balance the range aura for units on boats<br>
 <h2>Priority: Low</h2>
-Make arrow ships get accuracy bonus from bolt shooters<br>
+[In progress]Make arrow ships get accuracy bonus from bolt shooters<br>
 <h2>Goal for stats</h2>
 Ram or seige ship defeat arrow ship<br>
 Seige ship defeat ram or arrow ship<br>
