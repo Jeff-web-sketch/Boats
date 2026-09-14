@@ -8,12 +8,14 @@ To make:
 Arrow ships weak, but fast transport ships.<br>
 Seige ships slow but strong transport ships.<br>
 Ram ships kinda in the middle, but not really transport ships<br>
+Ram ships has 700 health<br>
 # Changelog
 <h2>Version 1.0.0</h2>
 All boats have "on deck positions<br>
 Arrow ship now shoots bolts, and costs 150 wood<br>
 Seige ship has 2000 health<br>
 Arrow ship health down to 800, and speed doubbled<br>
+Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance
 # Todo
 <h2>Prioity: High</h2>
 Make certain units swim, and some sink<br>

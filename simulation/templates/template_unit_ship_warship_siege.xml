@@ -80,9 +80,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>2</Hack>
-        <Pierce>5</Pierce>
-        <Crush>4</Crush>
+        <Hack>7</Hack>
+        <Pierce>12</Pierce>
+        <Crush>7</Crush>
       </Damage>
     </Entity>
   </Resistance>
