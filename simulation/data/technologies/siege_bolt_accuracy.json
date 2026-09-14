@@ -21,7 +21,7 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "accuracy_bolt.png",
 	"researchTime": 40,
-	"tooltip": "Bolt Shooters −20% ranged attack spread.",
+	"tooltip": "Bolt Shooters and arrow ships −20% ranged attack spread.",
 	"modifications": [
 		{ "value": "Attack/Ranged/Projectile/Spread", "multiply": 0.8 }
 	],
