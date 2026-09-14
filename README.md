@@ -17,17 +17,17 @@ All boats have "on deck positions<br>
 Arrow ship now shoots bolts, and costs 150 wood<br>
 Seige ship has 2000 health<br>
 Arrow ship health down to 800, and speed doubbled<br>
-Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance
+Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance<br>
+Add "on deck" points to scout ship<br>
 # Todo
 <h2>Prioity: High</h2>
 Make certain units swim, and some sink<br>
-[Done]Add "on deck" points to scout ship<br>
 <h2>Priority: Medium</h2>
 [Needs testing]Arrow ship damage stats, like bolt shooter<br>
 [Needs testing]Increase health + resistance for some(Maybe)<br>
 Test and balance the range aura for units on boats<br>
 <h2>Priority: Low</h2>
-[In progress]Make arrow ships get accuracy bonus from bolt shooters<br>
+[Needs testing]Make arrow ships get accuracy bonus from bolt shooters<br>
 <h2>Goal for stats</h2>
 Ram or seige ship defeat arrow ship<br>
 Seige ship defeat ram or arrow ship<br>
