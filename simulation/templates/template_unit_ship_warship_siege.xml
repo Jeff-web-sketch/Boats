@@ -56,7 +56,7 @@
     <List datatype="tokens">Siege</List>
   </GarrisonHolder>
   <Health>
-    <Max>1600</Max>
+    <Max>2000</Max>
   </Health>
   <Identity>
     <GenericName>Siege Ship</GenericName>

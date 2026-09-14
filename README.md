@@ -3,10 +3,17 @@ If you see something that needs to be done, please add it to the to-do list, and
 Also, thanks to my brother for the range bonus image
 # Boats
 A mod for 0 A.D. that is supposed to make boats better
+<h2>Some Goals (Some may not be included yet)</h2>
+To make:
+Arrow ships weak, but fast transport ships.<br>
+Seige ships slow but strong transport ships.<br>
+Ram ships kinda in the middle, but not really transport ships<br>
 # Changelog
 <h2>Version 1.0.0</h2>
 All boats have "on deck positions<br>
 Arrow ship now shoots bolts, and costs 150 wood<br>
+Seige ship has 2000 health<br>
+Arrow ship health down to 800, and speed doubbled<br>
 # Todo
 <h2>Prioity: High</h2>
 Make certain units swim, and some sink<br>

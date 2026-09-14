@@ -50,7 +50,7 @@
     <List datatype="tokens">Siege</List>
   </GarrisonHolder>
   <Health>
-    <Max>1000</Max>
+    <Max>800</Max>
   </Health>
   <Identity>
     <GenericName>Arrow Ship</GenericName>
@@ -135,7 +135,7 @@
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed op="mul">1.4</WalkSpeed>
+    <WalkSpeed op="mul">2.8</WalkSpeed>
     <Acceleration op="mul">5.0</Acceleration>
   </UnitMotion>
 </Entity>
