@@ -2,7 +2,7 @@
 If you see something that needs to be done, please add it to the to-do list, and rank hw badly it needs to be done. Please put "[Done]" infront of any completed to-do items, or add them to the changelog section. If you are working on something that will take awhile, or you haven't finished yet, please make a new branch, and put "[In progress]" on the to-do list. Thanks for your help<br>
 Also, thanks to my brother for the range bonus image
 # Boats
-A mod for 0 A.D. that is supposed to make boats better
+A mod for 0 A.D. that is supposed to make boats better. I am basing it off of the 0ad code, which is lisenced under GPL-2.0-or-later (code), and CC BY-SA 3.0 for visual things (art models)
 <h2>Some Goals (Some may not be included yet)</h2>
 To make:
 Arrow ships weak, but fast transport ships.<br>
