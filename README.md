@@ -8,10 +8,9 @@ To make:
 Arrow ships weak, but fast transport ships.<br>
 Seige ships slow but strong transport ships.<br>
 Ram ships kinda in the middle, but not really transport ships<br>
-Ram ships has 700 health<br>
-# Known issues
+<h1>Known issues</h1>
 Units on deck don't sink with the boat, they go underwater, and can move around
-# Changelog
+<h1>Changelog</h2>
 <h2>Version 1.0.0</h2>
 All boats have "on deck positions<br>
 Arrow ship now shoots bolts, and costs 150 wood<br>
@@ -19,6 +18,7 @@ Seige ship has 2000 health<br>
 Arrow ship health down to 800, and speed doubbled<br>
 Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance<br>
 Add "on deck" points to scout ship<br>
+Ram ships has 700 health<br>
 # Todo
 <h2>Prioity: High</h2>
 Make certain units swim, and some sink<br>
