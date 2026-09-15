@@ -1,4 +1,5 @@
 # Notes to Contributers
+I would be glad to have contributers! Just message me one the 0ad forum.<br>
 If you see something that needs to be done, please add it to the to-do list, and rank hw badly it needs to be done. Please put "[Done]" infront of any completed to-do items, or add them to the changelog section. If you are working on something that will take awhile, or you haven't finished yet, please make a new branch, and put "[In progress]" on the to-do list. Thanks for your help<br>
 Also, thanks to my brother for the range bonus image
 # Boats
