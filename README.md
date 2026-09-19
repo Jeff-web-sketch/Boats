@@ -1,8 +1,8 @@
-# Notes to Contributers
+<h1>Notes to Contributers</h1>
 I would be glad to have contributers! Just message me one the 0ad forum.<br>
 If you see something that needs to be done, please add it to the to-do list, and rank hw badly it needs to be done. Please put "[Done]" infront of any completed to-do items, or add them to the changelog section. If you are working on something that will take awhile, or you haven't finished yet, please make a new branch, and put "[In progress]" on the to-do list. Thanks for your help<br>
 Also, thanks to my brother for the range bonus image
-# Boats
+<h1>Boats Mod</h1>
 A mod for 0 A.D. that is supposed to make boats better. I am basing it off of the 0ad code, which is lisenced under GPL-2.0-or-later (code), and CC BY-SA 3.0 for visual things (art models)
 <h2>Some Goals (Some may not be included yet)</h2>
 To make:
@@ -20,15 +20,17 @@ Arrow ship health down to 800, and speed doubbled<br>
 Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance<br>
 Add "on deck" points to scout ship<br>
 Ram ships has 700 health<br>
-# Todo
+Arrow ship walk speed multiplication is now up to 3, scout ship to 3.2, and siege ship down to 1.0 <br>
+[Needs testing]Arrow ship damage stats, like bolt shooter<br>
+[Needs testing]Increase health + resistance for some(Maybe)<br>
+[Needs testing]Make arrow ships get accuracy bonus from bolt shooters<br>
+<h1>Todo</h1>
 <h2>Prioity: High</h2>
 Make certain units swim, and some sink<br>
 <h2>Priority: Medium</h2>
-[Needs testing]Arrow ship damage stats, like bolt shooter<br>
-[Needs testing]Increase health + resistance for some(Maybe)<br>
 Test and balance the range aura for units on boats<br>
 <h2>Priority: Low</h2>
-[Needs testing]Make arrow ships get accuracy bonus from bolt shooters<br>
-<h2>Goal for stats</h2>
+[Empty]
+<h2>Goal for Boats</h2>
 Ram or seige ship defeat arrow ship<br>
 Seige ship defeat ram or arrow ship<br>

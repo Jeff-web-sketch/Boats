@@ -119,7 +119,7 @@
     <MaxDistance>7</MaxDistance>
   </TreasureCollector>
   <UnitMotion>
-    <WalkSpeed op="mul">1.7</WalkSpeed>
+    <WalkSpeed op="mul">3.2</WalkSpeed>
     <Acceleration op="mul">5.0</Acceleration>
   </UnitMotion>
 </Entity>
