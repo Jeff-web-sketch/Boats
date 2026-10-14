@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/athen/champion_marine">
+  <Auras datatype="tokens">
+    units/ships_captains
+  </Auras>
+  <Identity>
+    <GenericName>Ship Captain</GenericName>
+    <SpecificName>Epibátēs Athēnaîos</SpecificName>
+    <SelectionGroupName>units/athen/champion_marine</SelectionGroupName>
+    <Icon>units/athen/champion_marine.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city phase_town</Techs>
+    </Requirements>
+  
+  </Identity>
+</Entity>

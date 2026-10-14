@@ -12,7 +12,7 @@
       <MaxRange>80</MaxRange>
       <MinRange>15</MinRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>2000</RepeatTime>
       <Projectile>
         <Speed>150</Speed>
         <Spread>3</Spread>
@@ -71,7 +71,7 @@
   <Position>
     <TurnRate>1.3</TurnRate>
   </Position>
-   <TurretHolder>
+  <TurretHolder>
     <TurretPoints>
       <One>
         <X>1</X>
@@ -135,7 +135,7 @@
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed op="mul">3</WalkSpeed>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
     <Acceleration op="mul">5.0</Acceleration>
   </UnitMotion>
 </Entity>

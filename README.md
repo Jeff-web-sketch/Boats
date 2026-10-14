@@ -14,13 +14,15 @@ Units on deck don't sink with the boat, they go underwater, and can move around
 <h1>Changelog</h2>
 <h2>Version 1.0.0</h2>
 All boats have "on deck positions<br>
-Arrow ship now shoots bolts, and costs 150 wood<br>
+Arrow ship now shoots bolts, and costs 150 wood. Repeat time is at 2000<br>
 Seige ship has 2000 health<br>
 Arrow ship health down to 800, and speed doubbled<br>
 Arrow and ram ships have 5 hack, 10 pierce, and 5 crush resistance, and seige ships have 7 hack, 12 pierce, and 7 crush resistance<br>
 Add "on deck" points to scout ship<br>
 Ram ships has 700 health<br>
-Arrow ship walk speed multiplication is now up to 3, scout ship to 3.2, and siege ship down to 1.0 <br>
+Arrow ship walk speed multiplication is now up to 3, scout ship to 3.2, and siege ship down to 1.0<br> 
+Add ship captain, boosts range of ships and infantry<br>
+<br>
 [Needs testing]Arrow ship damage stats, like bolt shooter<br>
 [Needs testing]Increase health + resistance for some(Maybe)<br>
 [Needs testing]Make arrow ships get accuracy bonus from bolt shooters<br>

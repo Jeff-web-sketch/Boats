@@ -1,0 +1,11 @@
+{
+	"type": "range",
+	"radius": 20,
+	"affects": ["Ship Infantry"],
+	"modifications": [
+		{ "value": "Attack/Ranged/MaxRange", "multiply": 2 }
+	],
+	"auraName": "Ranged Bonus",
+	"auraDescription": "Double the range of ships and infantry",
+	"overlayIcon": "art/textures/ui/session/auras/range_bonus.png"
+}
