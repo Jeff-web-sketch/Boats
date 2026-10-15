@@ -22,7 +22,7 @@
     <SelectionGroupName>units/shipcaptain</SelectionGroupName>
     <GenericName>Ship Captain</GenericName>
     <SpecificName>Ship Captain</SpecificName>
-    <Icon>units/mace/infantry_archer.png</Icon>
+    <Icon>units/mace/ship_captain.png</Icon>
     <Classes datatype="tokens">Shipcaptain</Classes>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
