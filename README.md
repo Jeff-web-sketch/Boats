@@ -13,7 +13,7 @@ Ram ships kinda in the middle, but not really transport ships<br>
 Units on deck don't sink with the boat, they go underwater, and can move around
 <h1>Changelog</h2>
 <h2>Version 1.0.0</h2>
-All boats have "on deck positions<br>
+All boats have "on deck positions"<br>
 Arrow ship now shoots bolts, and costs 150 wood. Repeat time is at 2000<br>
 Seige ship has 2000 health<br>
 Arrow ship health down to 800, and speed doubbled<br>
@@ -22,6 +22,7 @@ Add "on deck" points to scout ship<br>
 Ram ships has 700 health<br>
 Arrow ship walk speed multiplication is now up to 3, scout ship to 3.2, and siege ship down to 1.0<br> 
 Add ship captain, boosts range of ships and infantry<br>
+Ship captain now is an archer, and can't gather and has a limit of 8<br>
 <br>
 [Needs testing]Arrow ship damage stats, like bolt shooter<br>
 [Needs testing]Increase health + resistance for some(Maybe)<br>
@@ -31,6 +32,7 @@ Add ship captain, boosts range of ships and infantry<br>
 Make certain units swim, and some sink<br>
 <h2>Priority: Medium</h2>
 Test and balance the range aura for units on boats<br>
+Add more fitting models for ship captains, and test and update their stats<br>
 <h2>Priority: Low</h2>
 [Empty]
 <h2>Goal for Boats</h2>

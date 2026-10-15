@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/athen/champion_marine">
+<Entity parent="template_unit_infantry_ranged_archer">
   <Auras datatype="tokens">
-    units/ships_captains
+    units/infantry_boat_range
   </Auras>
+  <Attack>
+	<Ranged>
+	  <Damage>
+		<Pierce>12</Pierce>
+	  </Damage>
+	</Ranged>
+  </Attack>
+  <Cost>
+	<Resources>
+	  <metal>35</metal>
+	</Resources>
+  </Cost>
+    <Health>
+    <Max>120</Max>
+  </Health>
   <Identity>
+    <SelectionGroupName>units/shipcaptain</SelectionGroupName>
     <GenericName>Ship Captain</GenericName>
-    <SpecificName>Epibátēs Athēnaîos</SpecificName>
-    <SelectionGroupName>units/athen/champion_marine</SelectionGroupName>
-    <Icon>units/athen/champion_marine.png</Icon>
+    <SpecificName>Ship Captain</SpecificName>
+    <Icon>units/mace/infantry_archer.png</Icon>
     <Requirements>
-      <Techs datatype="tokens">-phase_city phase_town</Techs>
+      <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
-  
   </Identity>
+  <Promotion>
+    <Entity>units/athen/infantry_archer_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/athenians/infantry_archer_b.xml</Actor>
+  </VisualActor>
+  <ResourceGatherer disable=""/>
 </Entity>
