@@ -39,7 +39,7 @@
       <WarDog>0</WarDog>
       <Centurion>8</Centurion>
       <Wonder>1</Wonder>
-      <ShipCaptain>8</ShipCaptain>
+      <Shipcaptain>8</Shipcaptain>
     </Limits>
     <LimitChangers>
       <Gladiator>
@@ -128,6 +128,7 @@
       Trader
       Unit
       Worker
+      Shipcaptain
     </UnitClasses>
     <StructureClasses datatype="tokens">
       Economic

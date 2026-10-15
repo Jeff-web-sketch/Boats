@@ -23,6 +23,7 @@ Ram ships has 700 health<br>
 Arrow ship walk speed multiplication is now up to 3, scout ship to 3.2, and siege ship down to 1.0<br> 
 Add ship captain, boosts range of ships and infantry<br>
 Ship captain now is an archer, and can't gather and has a limit of 8<br>
+Fixed limit for ship captains and stuff<br>
 <br>
 [Needs testing]Arrow ship damage stats, like bolt shooter<br>
 [Needs testing]Increase health + resistance for some(Maybe)<br>

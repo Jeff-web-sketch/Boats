@@ -23,10 +23,14 @@
     <GenericName>Ship Captain</GenericName>
     <SpecificName>Ship Captain</SpecificName>
     <Icon>units/mace/infantry_archer.png</Icon>
+    <Classes datatype="tokens">Shipcaptain</Classes>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Shipcaptain</Category>
+  </TrainingRestrictions>
   <Promotion>
     <Entity>units/athen/infantry_archer_a</Entity>
   </Promotion>
